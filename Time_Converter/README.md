@@ -1,6 +1,6 @@
 # 7kyu - Time Converter: hours, minutes, seconds and milliseconds
 
-I have created this Kata when learnig Ruby DATE and TIME class and I want to share with you!
+I have created this Kata when learnig Ruby DATE and TIME class and now I want to share with you!
 
 
 
@@ -14,5 +14,5 @@ It should return a string including milliseconds with 3 decimals.
 Example:
 
 Time.new(2016, 2, 8, 16, 42, 59)
-#Should return: 
+Should return: 
 "16:42:59,000"
