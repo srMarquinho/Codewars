@@ -1,5 +1,7 @@
 # [Time Lap to Average MPH - ("Indianapolis 500")](http://www.codewars.com/kata/56b89b9b33dbe53e82000df8)
 
+I've created this Kata for you to play with!
+
 
 ### Description:
 
